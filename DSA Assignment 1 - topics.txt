@@ -2,28 +2,28 @@ DSA ASSIGNMENT 1
 
 TOPICS - RED BLACK TREE
 
-1. Introduction
+1. Introduction✅
 2. Key Terms, Definitions & Properties related to RB Trees
-    2.1 Color
-    2.2 Balanced
-    2.3 Sentinel Nodes
+    2.1 Color✅
+    2.2 Balanced✅
+    2.3 Sentinel Nodes✅
     2.4 Black Height ( For each node, all simple paths from the node to descendant leaves 
-        contain the same number of black nodes)
-    2.5 Height of RB Tree proof
+        contain the same number of black nodes)✅
+    2.5 Height of RB Tree proof✅
 3. Rotaions (algorithm & code)
-    3.1 Left-Rotate (Pseudo Code)
-    3.2 Right-Rotate (Pseudo Code)
+    3.1 Left-Rotate (Pseudo Code)⛔
+    3.2 Right-Rotate (Pseudo Code)⛔
 4. Insertion
     4.1 Different Cases possible in RB Tree insertion along with examples and their
-        respective solutions
-    4.1 Insert Algorithm (Pseudo Code)
-    4.2 Insert Fixup Algorithm (Pseudo Code)
-    4.3 Running Time Analysis (average & worst) and loop invariant to prove solution.
+        respective solutions✅
+    4.1 Insert Algorithm (Pseudo Code)✅
+    4.2 Insert Fixup Algorithm (Pseudo Code)✅
+    4.3 Running Time Analysis (average & worst).✅
 5. Deletion
     5.1 Different Cases possible in RB Tree deletion along with examples and their
-        respective solutions
-    5.2 Delete Algorithm (Pseudo Code)
-    5.3 Delete Fixup Algorithm (Pseudo Code)
-    5.4 Running Time Analysis (average & worst) and loop invariant to prove solution.
+        respective solutions✅
+    5.2 Delete Algorithm (Pseudo Code)✅
+    5.3 Delete Fixup Algorithm (Pseudo Code)✅
+    5.4 Running Time Analysis (average & worst).✅
 6. Uses of RB Tree in set data structure
-    6.1 Brief explanation on union of two sets using RB Trees
+    6.1 Brief explanation on union of two sets using RB Trees⛔
